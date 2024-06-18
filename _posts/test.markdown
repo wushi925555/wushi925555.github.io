@@ -1,10 +1,10 @@
 ---
-layout：      post
-title：       “刘测”
-author：      “Mr.wu”
-header-style：text
-catalog：     true
-tags：
+layout:       post
+title:        “刘测”
+author:       “Mr.wu”
+header-style: text
+catalog: true
+tags:
     -test
     -web
 ---
