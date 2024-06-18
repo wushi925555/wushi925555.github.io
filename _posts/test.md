@@ -1,3 +1,14 @@
+---
+layout：      post
+title：       “仅测试，请勿当真”
+author：      “Mr.wu”
+header-style：text
+catalog：     true
+tags：
+    -test
+    -web
+---
+
 # ***刘锦潇***
 > 吴氏制作，遥遥领先
 > 
