@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "wu"
+title:        " wu"
 author:       "wu"
 header-style: text
 catalog:      true
