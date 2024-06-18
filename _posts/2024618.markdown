@@ -4,6 +4,7 @@ title:      "仅测试"
 subtitle:   "小小测试不必不看"
 date:       2024-6-18
 author:     "吴氏"
+catalog: true
 tags:
     - web
     - test
