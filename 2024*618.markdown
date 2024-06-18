@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "仅测试"
-subtitle:   "无"
+subtitle:   "小小测试不必不看"
 date:       2024-6-18
 author:     "吴氏"
 tags:
@@ -9,7 +9,7 @@ tags:
     - test
 ---
 
-# ***刘锦潇***
+# ***吴晨磊***
 > 吴氏制作，遥遥领先
 > 
 >>**为了包含所有makedown语法，随便打几个**
