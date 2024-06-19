@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 刘锦潇？
-subtitle: Do you know her?
+title: 吴晨磊？
+subtitle: Do you know him?
 date: 2024-6-19
 author: wu
 catalog: true
 tags: Web wm
 ---
 
-# ***刘锦潇***
+# ***wu***
 > 吴氏制作，遥遥领先
 > 
 >>**为了包含所有makedown语法，随便打几个**
@@ -24,8 +24,8 @@ tags: Web wm
 ***<6025@925001.xyz>***
 
 ## 正文开始
-1.她凭什么拉黑我，她算个***蛋***啊我k  
-2.不是，哎我k，她怎么这么能装啊我靠
+1.开玩笑，正文  
+2.测试的那必定没正文啊  
 # 结尾
 本文纯测试，无不良内容  
 ## 测试成功，问题不大
